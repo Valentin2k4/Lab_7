@@ -1,4 +1,4 @@
-/* namespace Lab_7;
+ namespace Lab_7;
 
 public class Number_1
 {
@@ -80,4 +80,3 @@ class Grant : Student
         Console.WriteLine($"{Surname}    {averageMark}       {money} руб");
     }
 }
-*/
